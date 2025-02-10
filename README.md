@@ -4,4 +4,4 @@ BlazeRoute is a grid based routing algorithm for file spreading. It is designed 
 
 ## 
 
-- 3000 * 2000 grid (5m * 5m) 
+- 3000 * 2000 grid (5m * 5m)  
