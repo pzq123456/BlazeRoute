@@ -5,3 +5,6 @@ BlazeRoute is a grid based routing algorithm for file spreading. It is designed 
 ## 
 
 - 3000 * 2000 grid (5m * 5m)
+
+## Tech 或许有用的技术
+- 时序数据展示控件（矢量栅格）：https://github.com/pzq123456/BlazeRoute.git
